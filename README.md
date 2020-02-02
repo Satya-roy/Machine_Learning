@@ -5,3 +5,6 @@ Projects.
 2. Logistic Regression
 3. Decision Tree
 4. Naive Bayes
+5. KNN(K-nearest neighbours)
+6. SVM(Support Vector Machine)
+
