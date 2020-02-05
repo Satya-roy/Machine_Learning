@@ -7,4 +7,5 @@ Projects.
 4. Naive Bayes
 5. KNN(K-nearest neighbours)
 6. SVM(Support Vector Machine)
+7. NLP(Natural Language Processing)
 
